@@ -7,33 +7,10 @@
 ## Video Timestamps
 
 ### Introduction and Overview
-- **00:00 - 00:30** - Introduction to CVision: Smart Job Finder
-- **00:30 - 01:00** - Overview of key features and capabilities
-
-### Resume Upload and Analysis
-- **01:00 - 01:30** - Uploading a resume (PDF/DOCX)
-- **01:30 - 02:00** - Automatic domain detection
-- **02:00 - 02:30** - Skills extraction and categorization
-- **02:30 - 03:30** - Gemini AI resume analysis
-
-### Job Search and Matching
-- **03:30 - 04:00** - Selecting job platforms
-- **04:00 - 04:30** - Initiating job search
-- **04:30 - 05:30** - Viewing matched jobs and similarity scores
-- **05:30 - 06:30** - Gemini AI job description analysis
-
-### Manual Text Analysis
-- **06:30 - 07:00** - Using the manual text analysis feature
-- **07:00 - 08:00** - Reviewing Gemini AI text analysis results
-
-### Advanced Features
-- **08:00 - 09:00** - Customizing job search parameters
-- **09:00 - 10:00** - Comparing multiple job opportunities
-- **10:00 - 11:00** - Using the application without a resume (manual domain entry)
-
-### Conclusion
-- **11:00 - 12:00** - Summary of benefits and use cases
-- **12:00 - 12:30** - Future enhancements and roadmap
+- **00:00 - 00:15** - Introduction to CVision: Smart Job Finder.
+- **00:15 - 00:45** - Overview of key code.
+- **01:00 - 01:30** - Manual input for job searching USING Google's Gemini AI to provide intelligent job matching and analysis.
+- **01:30 - 04:45** - Resume/CV upload for job finding, Google's Gemini AI to provide intelligent job matching and analysis.
 
 ## Installation Instructions
 
