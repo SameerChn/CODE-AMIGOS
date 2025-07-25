@@ -1,0 +1,19 @@
+pdfplumber
+python-docx
+spacy
+transformers
+sentence-transformers
+streamlit
+beautifulsoup4
+requests
+selenium
+webdriver-manager
+torch
+# It's a good practice to also install a specific model for spaCy
+# For example, for English:
+# python -m spacy download en_core_web_sm
+pytesseract
+Pillow
+# Note: pytesseract requires Google's Tesseract-OCR engine to be installed on your system.
+# Google Gemini API
+google-generativeai
