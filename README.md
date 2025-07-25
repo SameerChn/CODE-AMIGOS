@@ -98,3 +98,10 @@ If you encounter issues with the Gemini AI features:
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contributors / Author
+
+- [Aryan Kumar](https://github.com/aryacreations) - aryanrajput5760@gmail.com
+- [Sumit Sinha](https://github.com/thesumitsinhaa) - sumitsinharcet@gmail.com
+- [Sameer Kumar](https://github.com/SameerChn) - chauhan.sameer3101@gmail.com
+- [vipul Kumar Sahil]() - vipulsahil76320@gmail.com
